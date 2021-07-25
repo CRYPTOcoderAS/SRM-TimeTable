@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  /* background: #f8f7ff; */
+  background: rgb(0 0 0 / 14%);
+  /* overflow: auto !important; */
+}
+:root {
+  --nav: #022f36;
+  background: linear-gradient(260deg, #000000, transparent);
+}
+.MuiFormLabel-root {
+  background-color: #f8f7ff;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: 200px;
+}
+.MuiInputBase-formControl {
+  min-width: 200px;
+  max-width: 200px;
+}
+@media (max-width: 576px) {
+  .MuiInputBase-formControl {
+    max-width: 170px;
+    min-width: 170px;
+  }
+  .MuiFormLabel-root {
+    max-width: 120px;
+  }
+}
+@media (max-width: 420px) {
+  .MuiInputBase-formControl {
+    max-width: 130px;
+    min-width: 130px;
+  }
+}

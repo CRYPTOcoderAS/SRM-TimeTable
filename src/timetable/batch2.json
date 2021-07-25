@@ -1,0 +1,163 @@
+[
+  [
+    {
+      "slot": "9:00 - 10:40",
+      "subjectName": "Computer Networks",
+      "subjectCode": "18CSC302J",
+      "subjectSlot": "A",
+      "teacher": "Dr.S.Babu",
+      "teacherCode": 102457,
+      "category": "Professional Core",
+      "type": "Lab Based Theory",
+      "link": "https://meet.google.com/lookup/he7cvd2dbq?authuser=1&hs=179"
+    },
+    {
+      "slot": "10:50 - 12:30",
+      "subjectName": "Formal Language and Automata",
+      "subjectCode": "18CSC301T",
+      "subjectSlot": "F",
+      "teacher": "Dr.P.Velmurugan",
+      "teacherCode": 102679,
+      "category": "Professional Core",
+      "type": "Theory",
+      "link": "https://meet.google.com/lookup/goeofogs45?authuser=1&hs=179"
+    }
+  ],
+  [
+    {
+      "slot": "9:00 - 10:40",
+      "subjectSlot": "B"
+    },
+    {
+      "slot": "10:50 - 12:30",
+
+      "subjectSlot": "G"
+    },
+    {
+      "slot": "1:20 - 2:10",
+
+      "subjectSlot": "D"
+    },
+    {
+      "slot": "2:10 - 3:50",
+      "subjectName": "Discrete Mathematics for Engineers",
+      "subjectCode": "18MAB302T",
+      "subjectSlot": "C",
+      "teacher": "Dr.G.Vijayalakshmi",
+      "teacherCode": 100881,
+      "category": "Basic Science",
+      "type": "Theory",
+      "link": "https://meet.google.com/lookup/glq7j45ejj"
+    }
+  ],
+  [
+    {
+      "slot": "10:50 - 11:40",
+      "subjectName": "Computer Networks",
+      "subjectCode": "18CSC302J",
+      "teacher": "Dr.S.Babu",
+      "subjectSlot": "A",
+      "teacherCode": 102457,
+      "category": "Professional Core",
+      "type": "Lab Based Theory",
+      "link": "https://meet.google.com/lookup/he7cvd2dbq"
+    },
+    {
+      "slot": "11:40 - 12:30",
+      "subjectName": "Indian Traditional Knowledge",
+      "subjectCode": "18LEM109T",
+      "subjectSlot": "D1",
+      "teacher": "Dr.S.Babu",
+      "teacherCode": 102457,
+      "category": "Mandatory",
+      "type": "Theory",
+      "link": "https://meet.google.com/lookup/bwws63kzrt"
+    },
+    {
+      "slot": "1:20 - 2:10",
+      "subjectSlot": "B"
+    },
+    {
+      "slot": "2:10 - 3:50",
+      "subjectName": "Computer Networks",
+      "subjectCode": "18CSC302J",
+      "subjectSlot": "P1 - P2",
+      "teacher": "Dr.S.Babu",
+      "teacherCode": 102457,
+      "category": "Professional Core",
+      "type": "Lab Based Theory",
+      "link": "https://meet.google.com/lookup/chckb6cu3w?authuser=1&hs=179"
+    }
+  ],
+  [
+    {
+      "slot": "9:00 - 10:40",
+      "subjectSlot": "D"
+    },
+    {
+      "slot": "10:50 - 11:40",
+      "subjectSlot": "B"
+    },
+    {
+      "slot": "1:20 - 2:10",
+      "subjectSlot": "G"
+    },
+    {
+      "slot": "2:10 - 3:00",
+      "subjectName": "Discrete Mathematics for Engineers",
+      "subjectCode": "18MAB302T",
+      "subjectSlot": "C",
+      "teacher": "Dr.G.Vijayalakshmi",
+      "teacherCode": 100881,
+      "category": "Basic Science",
+      "type": "Theory",
+      "link": "https://meet.google.com/lookup/glq7j45ejj"
+    },
+    {
+      "slot": "3:00 - 3:50",
+      "subjectName": "MOOC/Seminar/IT",
+      "subjectCode": "18CSP101L",
+      "subjectSlot": "P14",
+      "teacher": "Dr.S.Babu",
+      "teacherCode": 102457,
+      "category": "Project Course",
+      "type": "Practical",
+      "link": "https://meet.google.com/efazmcotvg"
+    }
+  ],
+  [
+    {
+      "slot": "9:00 - 10:40",
+      "subjectName": "Analytical and Logical Thinking Skills",
+      "subjectCode": "18PDM301L",
+      "subjectSlot": "E",
+      "teacher": "Dr. M. Sneha Latha",
+      "teacherCode": 102287,
+      "category": "Mandatory",
+      "type": "Practical",
+      "link": "https://meet.google.com/lookup/ewzd6sdk4c"
+    },
+    {
+      "slot": "10:50 - 11:40",
+      "subjectName": "Discrete Mathematics for Engineers",
+      "subjectCode": "18MAB302T",
+      "subjectSlot": "C",
+      "teacher": "Dr.G.Vijayalakshmi",
+      "teacherCode": 100881,
+      "category": "Basic Science",
+      "type": "Theory",
+      "link": "https://meet.google.com/lookup/glq7j45ejj"
+    },
+    {
+      "slot": "11:40 - 12:30",
+      "subjectName": "Formal Language and Automata",
+      "subjectCode": "18CSC301T",
+      "subjectSlot": "F",
+      "teacher": "Dr.P.Velmurugan",
+      "teacherCode": 102679,
+      "category": "Professional Core",
+      "type": "Theory",
+      "link": "https://meet.google.com/lookup/goeofogs45"
+    }
+  ]
+]

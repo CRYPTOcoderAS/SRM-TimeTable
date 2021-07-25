@@ -1,0 +1,96 @@
+.timetable .container {
+  margin: 100px auto 50px;
+  max-width: 900px;
+  background: repeating-linear-gradient(45deg, black, transparent 100px);
+
+}
+.timetable .container .options {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.timetable .container .subject-details {
+  margin: 0 8px;
+  margin-left: 0;
+  font-size: 12px;
+  border: 1px solid #777;
+  padding: 5px 8px;
+  border-radius: 12px;
+  color: #666;
+}
+.timetable .container .MuiPaper-rounded {
+  /* position: relative;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding: 5px 10px 15px 10px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  margin: 20px auto 0;
+  border: none; */
+
+  position: relative;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 5px 10px 15px 10px;
+    box-shadow: rgb(52 144 22) 1.95px 1.95px 2.6px;
+    margin: 20px auto 0;
+    border: none;
+    background: linear-gradient(45deg, #b0b793, transparent);
+}
+.timetable button {
+  position: relative;
+  left: 10px;
+  background-color: var(--nav);
+  color: white;
+}
+.timetable button:hover {
+  background-color: var(--nav);
+}
+.timetable .MuiTypography-h5 {
+  line-height: normal;
+  max-width: 480px;
+}
+.timetable .github {
+  display: none;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  padding: 4px 5px 5px;
+  border-radius: 50%;
+  background: var(--nav);
+}
+.timetable .github svg {
+  fill: #fff !important;
+}
+.timetable .slot {
+  position: absolute;
+  color: var(--nav);
+  right: 30px;
+  top: 20px;
+  font-size: 40px;
+}
+@media (max-width: 767px) {
+  .timetable .container {
+    margin-top: 20px;
+    margin-bottom: 80px;
+    background: repeating-linear-gradient(45deg, black, transparent 100px);
+  }
+  .timetable .slot {
+    right: 30px;
+    top: 10px;
+    font-size: 30px;
+  }
+  .timetable .github {
+    display: block;
+  }
+}
+@media (max-width: 450px) {
+  .timetable .MuiTypography-h5 {
+    font-size: 1.3rem;
+  }
+  .timetable .slot {
+    right: 25px;
+    top: 13px;
+    font-size: 25px;
+  }
+}

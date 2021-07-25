@@ -1,0 +1,65 @@
+[
+  {
+    "subjectName": "Smart Sensor Systems",
+    "subjectCode": "18NTO308T",
+    "subjectSlot": "G",
+    "teacher": "Dr.M.Renilkumar",
+    "teacherCode": 102507,
+    "category": "Open Elective",
+    "type": "Theory",
+    "link": "https://meet.google.com/e3riecd3ev"
+  },
+  {
+    "subjectName": "Total Engineering Quality Management",
+    "subjectCode": "18MBO401T",
+    "subjectSlot": "G",
+    "teacher": "Mr.V.Suresh",
+    "teacherCode": 17000054,
+    "category": "Open Elective",
+    "type": "Theory",
+    "link": "https://meet.google.com/ahgdotwwaf"
+  },
+
+  {
+    "subjectName": "B2B Marketing",
+    "subjectCode": "18MBO406T",
+    "subjectSlot": "G",
+    "teacher": "Dr.Densingh Joshua",
+    "teacherCode": 17000100,
+    "category": "Open Elective",
+    "type": "Theory",
+    "link": "https://meet.google.com/fmmhjsuipj"
+  },
+  {
+    "subjectName": "Fundamentals of Biomedical Engineering",
+    "subjectCode": "18BMO121T",
+    "subjectSlot": "G",
+    "teacher": "Dr.A.K.Jayanthy",
+    "teacherCode": 101255,
+    "category": "Open Elective",
+    "type": "Theory",
+    "link": "https://meet.google.com/khf-motg-tdu"
+  },
+
+  {
+    "subjectName": "Embedded System Design Raspberry Pi",
+    "subjectCode": "18ECO109J",
+    "subjectSlot": "G",
+    "teacher": "Mrs.V.Padmajothi",
+    "teacherCode": 100255,
+    "category": "Open Elective",
+    "type": "Theory",
+    "link": "https://meet.google.com/khf-motg-tdu"
+  },
+
+  {
+    "subjectName": "Financial Services",
+    "subjectCode": "18MBO408T",
+    "subjectSlot": "G",
+    "teacher": "Mr.Velmurugan T",
+    "teacherCode": 17000063,
+    "category": "Open Elective",
+    "type": "Theory",
+    "link": "https://meet.google.com/drhoiutbqw"
+  }
+]

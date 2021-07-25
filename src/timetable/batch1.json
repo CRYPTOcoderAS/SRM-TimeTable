@@ -1,0 +1,177 @@
+[
+  [
+    {
+      "slot": "9:00 - 10:40",
+      "subjectName": "Computer Networks",
+      "subjectCode": "18CSC302J",
+      "subjectSlot": "A",
+      "teacher": "Dr.P.Madhavan ",
+      "teacherCode": 102469,
+      "category": "Professional Core",
+      "type": "Lab Based Theory",
+      "link": "https://meet.google.com/lookup/d2kmiwtfvz?authuser=1&hs=179"
+    },
+    {
+      "slot": "10:50 - 12:30",
+      "subjectName": "Formal Language and Automata",
+      "subjectCode": "18CSC301T",
+      "subjectSlot": "F",
+      "teacher": "R.Renuka Devi",
+      "teacherCode": 102256,
+      "category": "Professional Core",
+      "type": "Theory",
+      "link": "https://meet.google.com/hjt-dtur-syr?authuser=1&hs=179"
+    },
+    {
+      "slot": "2:10 - 3:50",
+      "subjectName": "Computer Networks",
+      "subjectCode": "18CSC302J",
+      "subjectSlot": "P1 - P2",
+      "teacher": "Dr.P.Madhavan ",
+      "teacherCode": 102469,
+      "category": "Professional Core",
+      "type": "Lab Based Theory",
+      "link": "https://meet.google.com/lookup/e6ym5nqraj?authuser=1&hs=179"
+    }
+  ],
+  [
+    {
+      "slot": "9:00 - 10:40",
+      "subjectSlot": "B"
+    },
+    {
+      "slot": "10:50 - 12:30",
+
+      "subjectSlot": "G"
+    },
+    {
+      "slot": "1:20 - 2:10",
+
+      "subjectSlot": "D"
+    },
+    {
+      "slot": "2:10 - 3:50",
+      "subjectName": "Discrete Mathematics for Engineers",
+      "subjectCode": "18MAB302T",
+      "subjectSlot": "C",
+      "teacher": "Dr. D.K.Sheena Christy",
+      "teacherCode": 101180,
+      "category": "Basic Science",
+      "type": "Theory",
+      "link": "https://meet.google.com/lookup/cs2l4444sb?authuser=1&hs=179"
+    }
+  ],
+  [
+    {
+      "slot": "10:50 - 11:40",
+      "subjectName": "Computer Networks",
+      "subjectCode": "18CSC302J",
+      "teacher": "Dr.P.Madhavan ",
+      "subjectSlot": "A",
+      "teacherCode": 102469,
+      "category": "Professional Core",
+      "type": "Lab Based Theory",
+      "link": "https://meet.google.com/lookup/d2kmiwtfvz?authuser=1&hs=179"
+    },
+    {
+      "slot": "11:40 - 12:30",
+      "subjectName": "Indian Traditional Knowledge",
+      "subjectCode": "18LEM109T",
+      "subjectSlot": "D1",
+      "teacher": "Dr.P.Madhavan ",
+      "teacherCode": 102469,
+      "category": "Mandatory",
+      "type": "Theory",
+      "link": "https://meet.google.com/lookup/heytdpxsaj?authuser=1&hs=179"
+    },
+    {
+      "slot": "1:20 - 2:10",
+      "subjectSlot": "B"
+    }
+  ],
+  [
+    {
+      "slot": "9:00 - 10:40",
+
+      "subjectSlot": "D"
+    },
+    {
+      "slot": "10:50 - 11:40",
+      "subjectSlot": "B"
+    },
+    {
+      "slot": "12:30 - 2:10",
+
+      "subjectSlot": "G"
+    },
+    {
+      "slot": "2:10 - 3:00",
+      "subjectName": "Discrete Mathematics for Engineers",
+      "subjectCode": "18MAB302T",
+      "subjectSlot": "C",
+      "teacher": "Dr. D.K.Sheena Christy",
+      "teacherCode": 101180,
+      "category": "Basic Science",
+      "type": "Theory",
+      "link": "https://meet.google.com/lookup/cs2l4444sb?authuser=1&hs=179"
+    },
+    {
+      "slot": "3:00 - 3:50",
+      "subjectName": "MOOC/Seminar/IT",
+      "subjectCode": "18CSP101L",
+      "subjectSlot": "P14",
+      "teacher": "Dr.P.Madhavan ",
+      "teacherCode": 102469,
+      "category": "Project Course",
+      "type": "Practical",
+      "link": "https://meet.google.com/"
+    }
+  ],
+  [
+    {
+      "slot": "9:00 - 10:40",
+      "subjectName": "Analytical and Logical Thinking Skills",
+      "subjectCode": "18PDM301L",
+      "subjectSlot": "E",
+      "teacher": "Mr. K. Murali",
+      "teacherCode": 102289,
+      "category": "Mandatory",
+      "type": "Practical",
+      "link": "https://meet.google.com/lookup/cqzizvfq7j?authuser=1&hs=179"
+    },
+    {
+      "slot": "10:50 - 11:40",
+      "subjectName": "Discrete Mathematics for Engineers",
+      "subjectCode": "18MAB302T",
+      "subjectSlot": "C",
+      "teacher": "Dr. D.K.Sheena Christy ",
+      "teacherCode": 101180,
+      "category": "Basic Science",
+      "type": "Theory",
+      "link": "https://meet.google.com/lookup/cs2l4444sb?authuser=1&hs=179"
+    },
+    {
+      "slot": "11:40 - 12:30",
+      "subjectName": "Formal Language and Automata",
+      "subjectCode": "18CSC301T",
+      "subjectSlot": "F",
+      "teacher": "R.Renuka Devi ",
+      "teacherCode": 102256,
+      "category": "Professional Core",
+      "type": "Theory",
+      "link": "https://meet.google.com/lookup/dy6jrjghww?authuser=1&hs=179"
+    },
+    {
+      "slot": "1:20 - 2:10",
+      "subjectName": "Computer Networks",
+      "subjectCode": "18CSC302J",
+      "subjectSlot": "A",
+      "teacher": "Dr.P.Madhavan ",
+      "teacherCode": 102469,
+      "category": "Project Course",
+      "type": "Practical",
+      "link": "https://meet.google.com/lookup/d2kmiwtfvz?authuser=1&hs=179"
+    }
+
+  ]
+]
