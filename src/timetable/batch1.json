@@ -20,7 +20,7 @@
       "teacherCode": 102256,
       "category": "Professional Core",
       "type": "Theory",
-      "link": "https://meet.google.com/hjt-dtur-syr?authuser=1&hs=179"
+      "link": "https://meet.google.com/lookup/dy6jrjghww?authuser=1&hs=179"
     },
     {
       "slot": "2:10 - 3:50",
@@ -102,7 +102,17 @@
     {
       "slot": "12:30 - 2:10",
 
-      "subjectSlot": "G"
+      
+      "subjectName": "Embedded System Design Raspberry Pi",
+      "subjectCode": "18ECO109J",
+      "subjectSlot": "G-Lab",
+      "teacher": "Dr. Ruhan B",
+      "teacherCode": 100255,
+      "category": "Open Elective",
+      "type": "Practical",
+      "link": "https://meet.google.com/lookup/e4y3atbnll?authuser=1&hs=179"
+      
+    
     },
     {
       "slot": "2:10 - 3:00",
@@ -124,7 +134,7 @@
       "teacherCode": 102469,
       "category": "Project Course",
       "type": "Practical",
-      "link": "https://meet.google.com/"
+      "link": "https://meet.google.com/lookup/heytdpxsaj?authuser=1&hs=179"
     }
   ],
   [
